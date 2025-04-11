@@ -1,0 +1,12 @@
+# Java
+*.class
+*.jar
+*.log
+*.tmp
+*.idea/
+.vscode/
+.settings/
+.project
+.classpath
+target/
+bin/
